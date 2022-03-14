@@ -1,0 +1,180 @@
+body{
+	font-family: 'Montserrat', sans-serif;
+     text-decoration: none;
+}
+a{
+	text-decoration: none;
+}
+#footer{
+	font-family:'Montserrat', sans-serif ;
+	color: black;
+}
+.service-heading{
+	font-size: 30px;
+	font-family:'Montserrat', sans-serif ;
+	border: 1px solid;
+	height: 40px;
+	margin-left: 4px;
+	background-color:  #25237c;
+	color: white;
+	font-style: normal;
+     font-weight: 400;
+     letter-spacing: normal;
+}
+
+.contact-info{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 20px;
+	color: black;
+    text-decoration: none;
+    text-align: left;
+    cursor: pointer;
+
+}
+.site-title{
+	font-family:'Montserrat', sans-serif ;
+	font-size: 36px;
+	font-weight: bold;
+	text-decoration: underline;
+	color: black;
+	font-style: normal;
+
+}
+.title{
+	font-family:'Montserrat', sans-serif ;
+	font-size: 36px;
+	font-weight: bold;
+
+	color: black;
+	font-style: normal;
+}
+.detail{
+	font-family:'Montserrat', sans-serif ;
+	font-size: 23px;
+	font-weight: 300;
+	color: black;
+	letter-spacing: normal;
+	text-align: left;
+	
+
+}
+
+.P-title{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 14px;
+	color: black;
+	font-weight:400;
+
+	
+	
+}
+
+.Playlist-links{
+	
+	
+	
+	font-style: normal;
+	text-align: left;
+	
+	text-decoration: none;
+}
+
+
+.btn-span{
+
+font-family: 'Montserrat', sans-serif;
+	font-size: 21px;
+}
+.send{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 21px;
+	color: white;
+	background-color:  #25237c;
+
+}
+
+#Playlistl:hover{
+	border: 1px solid gery ;
+	border-radius: 8px;
+	
+}
+.subline{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 14px;
+	line-height: 25.67px;
+}
+
+/* This is a modal items comment */
+.get-btn{
+	margin-left: 20px;
+  background: #25237c;
+  color: #fff;
+  text-decoration: none;
+  padding: 6px 25px;
+  margin-right: 5px;
+  white-space: nowrap;
+  
+  
+  display: inline-block;
+}
+
+#modal-heading{
+	background-color:#25237c ;
+	color: white;
+}
+#form-heading{
+	background-color:white;
+}
+#validationCustom01{
+	box-shadow: none;
+}
+#validationCustom02{
+	box-shadow: none;
+}
+#validationCustom03{
+	box-shadow: none;
+}
+#validationCustom04{
+	box-shadow: none;
+}
+
+#send-btn{
+   color: white;
+   background-color: #25237c;
+   font-family: 'Montserrat', sans-serif;
+   font-size:14px ;
+   box-shadow: none;
+}
+/* This is a modal-items  comment ends */
+
+
+@media (max-width: 991px) {
+  
+  .get-btn{
+  	margin-right: 10px;
+  	margin: 40px;
+  	
+  }
+  .site-title{
+  	font-size: 21px;
+  }
+  .title{
+  	font-size: 21px;
+  }
+  #logo{
+  	width: 100%;
+  }
+  #topbar{
+  	display: block;
+  }
+  #Playlist-pics{
+  	width: 35%;
+  	height: 35%;
+  }
+  #P-title{
+  	font-size: 12px;
+  }
+   
+
+
+}
